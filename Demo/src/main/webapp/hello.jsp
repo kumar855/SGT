@@ -5,6 +5,7 @@
    <body>
  ${student.name}
  ${student.lastname}
+ helloiouyikjukl
  <h1>ghdhjhhhhjgjhgjh</h1>
   <form action="AddStudentProp.jsp" method="post">
     <table>
