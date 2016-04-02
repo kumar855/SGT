@@ -5,9 +5,7 @@
    <body>
  ${student.name}
  ${student.lastname}
- code change
- hhgdsfgfgghj
- helloiouyikjukl
+ <h1> change by git222frfffssd<h1>
  <h1>ghdhjhhhhjgjhgjh</h1>
   <form action="AddStudentProp.jsp" method="post">
     <table>
