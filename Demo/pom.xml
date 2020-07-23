@@ -7,7 +7,7 @@
 	<name>MavenDemo1</name>
 	<packaging>war</packaging>
 	<properties>
-		<spring.version>4.2.5.RELEASE</spring.version>
+		<spring.version>5.2.8.RELEASE</spring.version>
 	</properties>
 	<dependencies>
 		<dependency>
